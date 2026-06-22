@@ -51,9 +51,19 @@ Problem Solving
 Here are some of my projects:
 
 - 🛒 Product Management System
+ https://www.linkedin.com/posts/mahmoud-osama-4662613ab_four-months-of-learning-web-development-isnt-ugcPost-7472697314613067780-rIo1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGQ9N04BYYX6baFp4rIRvmI0R9Wh144dodM
+
 - 🌐 Personal Portfolio
+ https://www.linkedin.com/posts/mahmoud-osama-4662613ab_gdsc-fronted-webdevelopment-ugcPost-7452502078381469696-sbk5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGQ9N04BYYX6baFp4rIRvmI0R9Wh144dodM
+
 - 🎨 Landing Pages
+
+https://www.linkedin.com/posts/mahmoud-osama-4662613ab_simple-page-because-exams-ugcPost-7470118771735740416-GPcR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGQ9N04BYYX6baFp4rIRvmI0R9Wh144dodM
+ 
 - 📱 Responsive Websites
+ 
+https://www.linkedin.com/posts/mahmoud-osama-4662613ab_slider-with-htmlcssjs-ugcPost-7474794197049606144-ZYXA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGQ9N04BYYX6baFp4rIRvmI0R9Wh144dodM
+ 
 
 ---
 
