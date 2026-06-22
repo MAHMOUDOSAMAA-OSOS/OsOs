@@ -71,8 +71,8 @@ Here are some of my projects:
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/mahmoud-osama-4662613ab/
+- Email: abdelmotalebosos3@gmail.com
 
 ---
 
