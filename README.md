@@ -1,1 +1,60 @@
-<h1 align="center">Hi 👋, I'm Mohamed Osama</h1> <h3 align="center">Frontend Developer from Egypt 🇪🇬</h3> --- ## 🚀 About Me - 🌱 Currently learning Front-End Development - 💻 Building projects using HTML, CSS, and JavaScript - 🎯 Goal: Become a professional Front-End Developer - 📚 Always learning and improving my coding skills --- ## 🛠️ Skills <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" /> </p> --- ## 📖 Currently Learning <p align="left"> <img src="https://skillicons.dev/icons?i=bootstrap" /> </p> - Responsive Web Design - JavaScript ES6+ - Object-Oriented Programming (OOP) --- ## 📂 Projects Here are some of my projects: - 🛒 Product Management System - 🌐 Personal Portfolio - 🎨 Landing Pages - 📱 Responsive Websites --- ## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" /> </p> --- ## 📫 Connect With Me - LinkedIn: YOUR_LINKEDIN - Email: YOUR_EMAIL --- ⭐ Thanks for visiting my profile!
+## 🚀 About Me
+
+- 🌱 Currently learning Front-End Development
+- 💻 Building projects using HTML, CSS, and JavaScript
+- 🎯 Goal: Become a professional Front-End Developer
+- 📚 Always learning and improving my coding skills
+
+---
+
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📖 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+</p>
+
+- Responsive Web Design
+- JavaScript ES6+
+- Object-Oriented Programming (OOP)
+
+---
+
+## 📂 Projects
+
+Here are some of my projects:
+
+- 🛒 Product Management System
+- 🌐 Personal Portfolio
+- 🎨 Landing Pages
+- 📱 Responsive Websites
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN
+- Email: YOUR_EMAIL
+
+---
+
+⭐ Thanks for visiting my profile!
